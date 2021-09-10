@@ -3,5 +3,5 @@
 ## Currently a Frontend Developer at HMRC 
 - 🏫 I'm currently working on building the skills required for HMRC's frontend
 - 🤝 I'm looking to collaborate with any like-minded people!
-- 👨‍💻 [My HMRC related GitHub](https://github.com/tomshaw1 "Me")
+- 👨‍💻 [My HMRC related GitHub account](https://github.com/tomshaw1 "Me")
 - 🌎 2021 Goals: Build my skills across the entire Front End Development spectrum.
