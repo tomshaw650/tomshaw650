@@ -1,7 +1,7 @@
 ### I'm Tom, a CS student based in the UK 👋
 
-## About to start a placement as an Associate Front End Developer at HMRC 
-- 🏫 I'm currently working on replicating popular websites as practice
-- 📚 I'm currently learning web technologies to build my skills
+## Currently a Frontend Developer at HMRC 
+- 🏫 I'm currently working on building the skills required for HMRC's frontend
 - 🤝 I'm looking to collaborate with any like-minded people!
+- 👨‍💻 [My HMRC related GitHub](https://github.com/tomshaw1 "Me")
 - 🌎 2021 Goals: Build my skills across the entire Front End Development spectrum.
