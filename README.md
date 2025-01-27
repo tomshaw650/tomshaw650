@@ -2,4 +2,4 @@
 
 ### Currently working at DWP
 - 💼 Working on the Plan Your Retirement team 😎
-- 🌎 2024 Goals: Improve the pre-retirement space, build cool projects, learn new tech
+- 🌎 2025 Goals: Build cool projects, learn new tech, read more books
